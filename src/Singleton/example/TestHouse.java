@@ -8,6 +8,7 @@ public class TestHouse {
         house2.displayHouseDim();
         System.out.println(house1.hashCode());
         System.out.println(house2.hashCode());
+        System.out.println("Hello Second time");
 
 
     }

@@ -22,6 +22,8 @@ public class House {
     public void displayHouseDim(){
             System.out.println("100 by 100");
 
+
+
         }
 
     }
